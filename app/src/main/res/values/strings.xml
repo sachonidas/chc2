@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">chc2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="introduce_los_hidratos_de_carbono">Introduce los hidratos de carbono</string>
+    <string-array name="hidratos_array">
+        <item>0.30g</item>
+        <item>0.31g</item>
+        <item>0.32g</item>
+        <item>0.33g</item>
+        <item>0.34g</item>
+        <item>0.35g</item>
+        <item>0.36g</item>
+        <item>0.37g</item>
+        <item>0.38g</item>
+        <item>0.39g</item>
+        <item>0.40g</item>
+        <item>0.41g</item>
+        <item>0.42g</item>
+        <item>0.43g</item>
+        <item>0.44g</item>
+        <item>0.45g</item>
+        <item>0.46g</item>
+        <item>0.47g</item>
+        <item>0.48g</item>
+        <item>0.50g</item>
+        <item>0.51g</item>
+        <item>0.52g</item>
+        <item>0.53g</item>
+        <item>0.54g</item>
+        <item>0.55g</item>
+        <item>0.56g</item>
+        <item>0.57g</item>
+        <item>0.58g</item>
+        <item>0.59g</item>
+        <item>0.60g</item>
+    </string-array>
+
+</resources>
